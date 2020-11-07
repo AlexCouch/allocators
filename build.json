@@ -1,0 +1,7 @@
+{
+    "name": "allocators",
+    "kind": "container",
+    "other_includes": [],
+    "other_libs": [],
+    "workspaces": ["main", "test"]
+}
